@@ -22,10 +22,10 @@ function App() {
   //     <Navbar toggle={toggle} /> */}
   //     <Routes>
   //       <Route path="/" element={<Home />} />
-  //       <Route path="/work" element={<Work />} />
+  //       {/* <Route path="/work" element={<Work />} />
   //       <Route path="/about" element={<About />} />
   //       <Route path="/iqvia" element={<Iqvia />} />
-  //       <Route path="/pae" element={<Pae />} />
+  //       <Route path="/pae" element={<Pae />} /> */}
   //     </Routes>
   //   </Router>
   // );
